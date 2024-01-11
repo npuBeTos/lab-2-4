@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxRUdF2UOIeig11Dbdxhsmt7sngeGzB+QzNuZyixSJVcs3MP+cJqHYCLmPf6t9zzinWVH27d5YpVrv679lm12g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Админ\\Desktop\\MyTaskPlanner\\MyTaskPlanner\\MyTaskPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
